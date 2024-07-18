@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectoECBack\\PruebaEC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|d:\\proyectoecback\\pruebaec\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|d:\\proyectoecback\\pruebaec\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|d:\\proyectoecback\\pruebaec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|d:\\proyectoecback\\pruebaec\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|d:\\proyectoecback\\pruebaec\\context\\appecdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|solutionrelative:context\\appecdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|d:\\proyectoecback\\pruebaec\\migrations\\20240716005916_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|solutionrelative:migrations\\20240716005916_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|d:\\proyectoecback\\pruebaec\\pruebaec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8860223B-DB03-4AC1-9368-7EE945C0549E}|PruebaEC.csproj|solutionrelative:pruebaec.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppECDBContext.cs",
+              "DocumentMoniker": "D:\\ProyectoECBack\\PruebaEC\\Context\\AppECDBContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppECDBContext.cs",
+              "ToolTip": "D:\\ProyectoECBack\\PruebaEC\\Context\\AppECDBContext.cs",
+              "RelativeToolTip": "Context\\AppECDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:49:35.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\ProyectoECBack\\PruebaEC\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\ProyectoECBack\\PruebaEC\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:13:29.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProyectoECBack\\PruebaEC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ProyectoECBack\\PruebaEC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T22:44:10.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProyectoECBack\\PruebaEC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ProyectoECBack\\PruebaEC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T22:26:17.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ProyectoECBack\\PruebaEC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\ProyectoECBack\\PruebaEC\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T16:43:55.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240716005916_Initial.cs",
+              "DocumentMoniker": "D:\\ProyectoECBack\\PruebaEC\\Migrations\\20240716005916_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240716005916_Initial.cs",
+              "ToolTip": "D:\\ProyectoECBack\\PruebaEC\\Migrations\\20240716005916_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240716005916_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:59:16.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PruebaEC.csproj",
+              "DocumentMoniker": "D:\\ProyectoECBack\\PruebaEC\\PruebaEC.csproj",
+              "RelativeDocumentMoniker": "PruebaEC.csproj",
+              "ToolTip": "D:\\ProyectoECBack\\PruebaEC\\PruebaEC.csproj",
+              "RelativeToolTip": "PruebaEC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T16:48:29.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
